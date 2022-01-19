@@ -46,6 +46,13 @@ This editor supports various maker boards, based on SAMD21, SAMD51, NRF52.
 * url: /boards/add-a-new-board
 * imageUrl: /static/libs/bead-servo.jpg
 
+---
+
+* name: YJZ
+* url: /boards/YJZ-PG-RP2040
+* imageUrl: /static/libs/YJZ-PG-RP2040.png
+
+
 ### ~
 
 
@@ -55,4 +62,5 @@ This editor supports various maker boards, based on SAMD21, SAMD51, NRF52.
 [Sparkfun](/boards/sparkfun),
 [Arduino](/boards/arduino),
 [Misc](/boards/misc),
-[Add a new board](/boards/add-a-new-board)
+[Add a new board](/boards/add-a-new-board),
+[YJZ](/boards/YJZ-PG-RP2040)
