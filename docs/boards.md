@@ -50,7 +50,7 @@ This editor supports various maker boards, based on SAMD21, SAMD51, NRF52.
 
 * name: YJZ
 * url: /boards/YJZ-PG-RP2040
-* imageUrl: /static/libs/YJZ-PG-RP2040.png
+* imageUrl: /static/libs/YJZ-PG-RP2040.jpg
 
 
 ### ~
